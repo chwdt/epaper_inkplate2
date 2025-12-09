@@ -1,5 +1,7 @@
 # Use the Inkplate2 ePaper display with esphome
 
+Extraced as standalone external component from [arunderwood/esphome](https://github.com/arunderwood/esphome/tree/epaper-spi-inkplate2/esphome/components/epaper_spi)
+
 ```
 external_components:
   - source: github://chwdt/epaper_inkplate2
