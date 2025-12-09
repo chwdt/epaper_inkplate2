@@ -51,7 +51,7 @@ inkplate2 = Inkplate2Model(
     # Default GPIO pins for Inkplate 2 hardware
     reset_pin=19,
     dc_pin=33,
-    cs_pin=15,
+    cs_pin=27,
     busy_pin={
         "number": 32,
         "inverted": True,  # Hardware: LOW=busy, HIGH=idle
